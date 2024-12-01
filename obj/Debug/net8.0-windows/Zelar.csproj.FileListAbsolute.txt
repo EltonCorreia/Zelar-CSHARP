@@ -1,0 +1,142 @@
+C:\Users\ertus\Desktop\Zelar\bin\Debug\net8.0-windows\Zelar.exe
+C:\Users\ertus\Desktop\Zelar\bin\Debug\net8.0-windows\Zelar.deps.json
+C:\Users\ertus\Desktop\Zelar\bin\Debug\net8.0-windows\Zelar.runtimeconfig.json
+C:\Users\ertus\Desktop\Zelar\bin\Debug\net8.0-windows\Zelar.dll
+C:\Users\ertus\Desktop\Zelar\bin\Debug\net8.0-windows\Zelar.pdb
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.Properties.Resources.resources
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.GenerateResource.cache
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfoInputs.cache
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfo.cs
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.dll
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\refint\Zelar.dll
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.pdb
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.genruntimeconfig.cache
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\ref\Zelar.dll
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.formDash.resources
+C:\Users\ertus\Desktop\Zelar\obj\Debug\net8.0-windows\Zelar.formConta.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\bin\Debug\net8.0-windows\Zelar.exe
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\bin\Debug\net8.0-windows\Zelar.deps.json
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\bin\Debug\net8.0-windows\Zelar.runtimeconfig.json
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\bin\Debug\net8.0-windows\Zelar.dll
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\bin\Debug\net8.0-windows\Zelar.pdb
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formConta.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formDash.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.Properties.Resources.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.GenerateResource.cache
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfoInputs.cache
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfo.cs
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.CoreCompileInputs.cache
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.dll
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\refint\Zelar.dll
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.pdb
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.genruntimeconfig.cache
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\ref\Zelar.dll
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formCartao.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formCliente.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formFuncoes.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formPlano.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formLogin.resources
+C:\Users\ertus\Downloads\Projetos - Programação\PROJETO - ZELAR\Zelar\obj\Debug\net8.0-windows\Zelar.formCadastro.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\Zelar.exe
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\Zelar.deps.json
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\Zelar.runtimeconfig.json
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\Zelar.pdb
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formApresentacao.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formCadastro.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formCartao.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formCliente.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formConta.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formDash.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formFuncoes.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formLogin.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.formPlano.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.Properties.Resources.resources
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.GenerateResource.cache
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfoInputs.cache
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfo.cs
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.CoreCompileInputs.cache
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\refint\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.pdb
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.genruntimeconfig.cache
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\ref\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.AssemblyReference.cache
+C:\Users\emano\OneDrive\Área de Trabalho\ETEC\3 semestre\Banco de Dados PTCC\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.Up2Date
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.AssemblyReference.cache
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\refint\Zelar.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.pdb
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.exe
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.deps.json
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.runtimeconfig.json
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.pdb
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formApresentacao.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formCadastro.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formCartao.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formCliente.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formConta.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formDash.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formFuncoes.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formLogin.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formPlano.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.Properties.Resources.resources
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.GenerateResource.cache
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfoInputs.cache
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfo.cs
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.CoreCompileInputs.cache
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.Up2Date
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.genruntimeconfig.cache
+D:\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\ref\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.exe
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.deps.json
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.runtimeconfig.json
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\Zelar.pdb
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.AssemblyReference.cache
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formCadastro.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formCartao.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formCliente.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formConta.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formDash.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formFuncoes.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formLogin.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formPlano.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.Properties.Resources.resources
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.GenerateResource.cache
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfoInputs.cache
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.AssemblyInfo.cs
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.CoreCompileInputs.cache
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.csproj.Up2Date
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\refint\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.pdb
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.genruntimeconfig.cache
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\ref\Zelar.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\bin\Debug\net8.0-windows\itextsharp.dll
+C:\Users\emano\OneDrive\Área de Trabalho\Projeto Zelar - Correções BD e PRJ\Zelar\obj\Debug\net8.0-windows\Zelar.formAtualizar.resources
